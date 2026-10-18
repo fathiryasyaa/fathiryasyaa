@@ -2,7 +2,7 @@
 
 Informatics student at **Universitas Gunadarma** with an interest in **data science, data analysis, and machine learning**.
 
-I enjoy working with data to discover patterns, generate insights, and build practical solutions. Currently, I am focusing on strengthening my skills in data analysis, exploratory data analysis, data visualization, statistical analysis, and machine learning.
+I enjoy working with data to discover patterns, generate insights, and build practical solutions. Currently, I am focusing on strengthening my skills in data analysis, exploratory data analysis, da[...]
 
 ## Areas of Interest
 
@@ -60,6 +60,6 @@ I enjoy working with data to discover patterns, generate insights, and build pra
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn profile](www.linkedin.com/in/fathiryasyaa-achmad-zumar-b91274353)
-- Kaggle: [Your Kaggle profile]([https://www.kaggle.com/your-username](https://www.kaggle.com/fathiryasyaa))
-- Instagram: [Your Instagram profile]([https://www.instagram.com/your-username/](https://www.instagram.com/fathiryasya/))
+- LinkedIn: [Fathiryasyaa Achmad Zumar](https://www.linkedin.com/in/fathiryasyaa-achmad-zumar-b91274353/)
+- Kaggle: [fathiryasyaa](https://www.kaggle.com/fathiryasyaa)
+- Instagram: [@fathiryasya](https://www.instagram.com/fathiryasya/)
