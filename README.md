@@ -1,16 +1,33 @@
-## Hi there 👋
+## Halo, saya Fathi 👋
 
-<!--
-**fathiryasyaa/fathiryasyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya tertarik di bidang **Data Science, Machine Learning, dan AI Engineering**.  
+Sebagian besar proyek saya berfokus pada membangun model prediksi dari data nyata, lalu membawanya ke tahap implementasi seperti web app atau pipeline MLOps.
 
-Here are some ideas to get you started:
+## 🚀 Proyek (Dikelompokkan per Tema)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1) Machine Learning — Prediksi & Klasifikasi
+- [ml-house-price-prediction-jakarta](https://github.com/fathiryasyaa/ml-house-price-prediction-jakarta)  
+  Prediksi harga rumah Jakarta dengan Random Forest + deployment Flask.
+- [student-score-prediction](https://github.com/fathiryasyaa/student-score-prediction)  
+  Prediksi nilai siswa menggunakan Simple Linear Regression.
+- [hotel-booking-cancellation-prediction](https://github.com/fathiryasyaa/hotel-booking-cancellation-prediction)  
+  Prediksi pembatalan booking hotel dengan beberapa algoritma ML.
+
+### 2) AI Generatif
+- [image-generation-pipeline](https://github.com/fathiryasyaa/image-generation-pipeline)  
+  Pipeline Stable Diffusion untuk text-to-image, inpainting, outpainting, dan antarmuka Streamlit.
+
+### 3) MLOps & Production Pipeline
+- [MLOps-project](https://github.com/fathiryasyaa/MLOps-project)  
+  Pipeline end-to-end berbasis TFX, TF Serving, dan monitoring Prometheus.
+
+### 4) Integrasi ML ke Aplikasi Web
+- [hotel-booking-cancellation-predict-webapp](https://github.com/fathiryasyaa/hotel-booking-cancellation-predict-webapp)  
+  Sistem booking hotel yang terintegrasi dengan model prediksi pembatalan.
+
+---
+
+Kalau kamu mau, di iterasi berikutnya aku bisa bantu:
+- bikin versi bio yang lebih formal / personal branding,
+- tambahkan badge & tech stack,
+- rapikan desain README biar lebih standout.
