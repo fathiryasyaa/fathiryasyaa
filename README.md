@@ -60,6 +60,6 @@ I enjoy working with data to discover patterns, generate insights, and build pra
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-username/)
-- Kaggle: [Your Kaggle profile](https://www.kaggle.com/your-username)
-- Instagram: [Your Instagram profile](https://www.instagram.com/your-username/)
+- LinkedIn: [Your LinkedIn profile](www.linkedin.com/in/fathiryasyaa-achmad-zumar-b91274353)
+- Kaggle: [Your Kaggle profile]([https://www.kaggle.com/your-username](https://www.kaggle.com/fathiryasyaa))
+- Instagram: [Your Instagram profile]([https://www.instagram.com/your-username/](https://www.instagram.com/fathiryasya/))
