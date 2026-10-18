@@ -1,52 +1,65 @@
-# Hi, I'm Fathir
+# FATHIRYASYAA ACHMAD ZUMAR
 
-I'm a machine learning and data enthusiast interested in turning data into practical insights and reliable applications. My work focuses on predictive modeling, data analysis, generative AI, and deploying machine learning solutions.
+Informatics student at **Universitas Gunadarma** with an interest in **data science, data analysis, and machine learning**.
 
-I'm currently improving my skills in Python, machine learning, data science, MLOps, and web deployment through hands-on projects.
+I enjoy working with data to discover patterns, generate insights, and build practical solutions. Currently, I am focusing on strengthening my skills in data analysis, exploratory data analysis, data visualization, statistical analysis, and machine learning.
+
+## Areas of Interest
+
+- Data analysis
+- Data science
+- Exploratory data analysis
+- Data visualization
+- Statistical analysis
+- Machine learning
 
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Featured Projects
+## Selected Projects
 
-### Machine Learning and Data Science
+### Data Science and Data Analysis
 
 - **[Hotel Booking Cancellation Prediction](https://github.com/fathiryasyaa/hotel-booking-cancellation-prediction)**  
-  A machine learning project that compares Logistic Regression, KNN, SVM, Random Forest, and XGBoost models using the CRISP-DM methodology.
+  A data science project that analyzes hotel booking data and compares several classification models, including Logistic Regression, KNN, SVM, Random Forest, and XGBoost.
 
 - **[Jakarta House Price Prediction](https://github.com/fathiryasyaa/ml-house-price-prediction-jakarta)**  
-  An end-to-end machine learning project for predicting house prices in Jakarta using Random Forest and Flask.
+  A machine learning project for predicting house prices in Jakarta using data preprocessing, exploratory analysis, Random Forest, and Flask deployment.
 
 - **[Student Score Prediction](https://github.com/fathiryasyaa/student-score-prediction)**  
-  A linear regression project for predicting student scores from academic and psychological factors.
+  A regression project that uses academic and psychological factors to predict student scores.
 
-### Generative AI
-
-- **[Image Generation Pipeline](https://github.com/fathiryasyaa/image-generation-pipeline)**  
-  A Stable Diffusion pipeline that supports text-to-image generation, inpainting, outpainting, and an interactive Streamlit interface.
-
-### MLOps and Deployment
-
-- **[MLOps Project](https://github.com/fathiryasyaa/MLOps-project)**  
-  An end-to-end MLOps pipeline for Superstore profitability classification using TFX, TensorFlow Serving, and Prometheus.
+### Machine Learning Applications
 
 - **[Hotel Booking Cancellation Prediction Web App](https://github.com/fathiryasyaa/hotel-booking-cancellation-predict-webapp)**  
   A web application that combines a hotel booking system with a machine learning model for cancellation prediction.
 
+- **[MLOps Project](https://github.com/fathiryasyaa/MLOps-project)**  
+  An end-to-end MLOps project for Superstore profitability classification using TFX, TensorFlow Serving, and Prometheus.
+
+### Other Projects
+
+- **[Image Generation Pipeline](https://github.com/fathiryasyaa/image-generation-pipeline)**  
+  An image generation pipeline using Stable Diffusion with support for text-to-image generation, inpainting, outpainting, and a Streamlit interface.
+
 ## Currently Learning
 
-- Advanced machine learning and model evaluation
-- MLOps pipelines and model serving
+- Data analysis and exploratory data analysis
 - Data visualization and storytelling
-- Reliable deployment of machine learning applications
+- Statistical analysis
+- Machine learning fundamentals and model evaluation
+- Building practical data-driven applications
 
-## Contact
+## Connect with Me
 
-I'm open to learning, collaborating, and discussing projects related to machine learning, data science, generative AI, and MLOps.
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-username/)
+- Kaggle: [Your Kaggle profile](https://www.kaggle.com/your-username)
+- Instagram: [Your Instagram profile](https://www.instagram.com/your-username/)
