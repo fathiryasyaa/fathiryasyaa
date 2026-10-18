@@ -1,10 +1,10 @@
-# Hi, I'm Fathir 👋
+# Hi, I'm Fathir
 
-I'm a **Machine Learning and Data enthusiast** who enjoys turning data into useful insights and building practical end-to-end solutions. I like exploring predictive modeling, data analysis, generative AI, and deploying machine learning projects into interactive applications.
+I'm a machine learning and data enthusiast interested in turning data into practical insights and reliable applications. My work focuses on predictive modeling, data analysis, generative AI, and deploying machine learning solutions.
 
-Currently, I'm focused on strengthening my skills in **Python, machine learning, data science, MLOps, and web deployment** through hands-on projects and continuous learning.
+I'm currently improving my skills in Python, machine learning, data science, MLOps, and web deployment through hands-on projects.
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -14,43 +14,39 @@ Currently, I'm focused on strengthening my skills in **Python, machine learning,
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning and Data Science
 
 - **[Hotel Booking Cancellation Prediction](https://github.com/fathiryasyaa/hotel-booking-cancellation-prediction)**  
-  Machine learning project using Logistic Regression, KNN, SVM, Random Forest, and XGBoost following the CRISP-DM methodology.
+  A machine learning project that compares Logistic Regression, KNN, SVM, Random Forest, and XGBoost models using the CRISP-DM methodology.
 
 - **[Jakarta House Price Prediction](https://github.com/fathiryasyaa/ml-house-price-prediction-jakarta)**  
-  End-to-end machine learning project for predicting house prices in Jakarta using Random Forest and Flask deployment.
+  An end-to-end machine learning project for predicting house prices in Jakarta using Random Forest and Flask.
 
 - **[Student Score Prediction](https://github.com/fathiryasyaa/student-score-prediction)**  
-  Linear regression project for predicting student scores based on academic and psychological factors.
+  A linear regression project for predicting student scores from academic and psychological factors.
 
-### 🧠 Generative AI
+### Generative AI
 
 - **[Image Generation Pipeline](https://github.com/fathiryasyaa/image-generation-pipeline)**  
-  Stable Diffusion pipeline featuring text-to-image, inpainting, outpainting, and an interactive Streamlit interface.
+  A Stable Diffusion pipeline that supports text-to-image generation, inpainting, outpainting, and an interactive Streamlit interface.
 
-### ⚙️ MLOps & Deployment
+### MLOps and Deployment
 
 - **[MLOps Project](https://github.com/fathiryasyaa/MLOps-project)**  
-  End-to-end MLOps pipeline for Superstore profitability classification using TFX, TensorFlow Serving, and Prometheus.
+  An end-to-end MLOps pipeline for Superstore profitability classification using TFX, TensorFlow Serving, and Prometheus.
 
 - **[Hotel Booking Cancellation Prediction Web App](https://github.com/fathiryasyaa/hotel-booking-cancellation-predict-webapp)**  
-  Web application that combines a hotel booking system with a machine learning model for cancellation prediction.
+  A web application that combines a hotel booking system with a machine learning model for cancellation prediction.
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced machine learning and model evaluation
 - MLOps pipelines and model serving
 - Data visualization and storytelling
-- Building reliable ML-powered web applications
+- Reliable deployment of machine learning applications
 
-## 🤝 Let's Connect
+## Contact
 
-I'm open to learning, collaborating, and discussing ideas around **machine learning, data science, generative AI, and MLOps**.
-
-<p align="center">
-  <i>Keep learning, keep building, and keep improving 🚀</i>
-</p>
+I'm open to learning, collaborating, and discussing projects related to machine learning, data science, generative AI, and MLOps.
