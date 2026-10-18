@@ -1,14 +1,17 @@
 # FATHIRYASYAA ACHMAD ZUMAR
 
-Informatics student at **Universitas Gunadarma** with an interest in **data science, data analysis, and machine learning**.
+Informatics student at **Universitas Gunadarma** with a developing focus on **data science and data analysis**.
 
-I enjoy working with data to discover patterns, generate insights, and build practical solutions. Currently, I am focusing on strengthening my skills in data analysis, exploratory data analysis, da[...]
+I am interested in using data to understand patterns, communicate insights, and support better decision-making. My current learning focuses on exploratory data analysis, data cleaning, visualization, statistical analysis, and the fundamentals of machine learning.
+
+I build projects to strengthen both my technical skills and my understanding of how data can be transformed into clear, useful, and practical insights.
 
 ## Areas of Interest
 
 - Data analysis
 - Data science
 - Exploratory data analysis
+- Data cleaning and preprocessing
 - Data visualization
 - Statistical analysis
 - Machine learning
@@ -53,6 +56,7 @@ I enjoy working with data to discover patterns, generate insights, and build pra
 ## Currently Learning
 
 - Data analysis and exploratory data analysis
+- Data cleaning and preparation
 - Data visualization and storytelling
 - Statistical analysis
 - Machine learning fundamentals and model evaluation
