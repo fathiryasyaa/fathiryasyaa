@@ -1,20 +1,18 @@
 # FATHIRYASYAA ACHMAD ZUMAR
 
-Informatics student at **Universitas Gunadarma** with a developing focus on **data science and data analysis**.
+Informatics student at **Universitas Gunadarma** with a developing focus on **data science, machine learning, and practical AI applications**.
 
-I am interested in using data to understand patterns, communicate insights, and support better decision-making. My current learning focuses on exploratory data analysis, data cleaning, visualization, statistical analysis, and the fundamentals of machine learning.
-
-I build projects to strengthen both my technical skills and my understanding of how data can be transformed into clear, useful, and practical insights.
+I enjoy transforming data into useful insights and building end-to-end projects—from data exploration and predictive modeling to deployed web applications and generative AI pipelines.
 
 ## Areas of Interest
 
-- Data analysis
-- Data science
-- Exploratory data analysis
+- Data analysis and exploratory data analysis
 - Data cleaning and preprocessing
-- Data visualization
-- Statistical analysis
-- Machine learning
+- Data visualization and storytelling
+- Machine learning and predictive modeling
+- Generative AI
+- MLOps and model deployment
+- Data-driven web applications
 
 ## Technical Skills
 
@@ -27,31 +25,44 @@ I build projects to strengthen both my technical skills and my understanding of 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## Selected Projects
+## Featured Projects
 
-### Data Science and Data Analysis
+Projects are ordered by the interests and direction I want to highlight most in my portfolio.
 
-- **[Hotel Booking Cancellation Prediction](https://github.com/fathiryasyaa/hotel-booking-cancellation-prediction)**  
-  A data science project that analyzes hotel booking data and compares several classification models, including Logistic Regression, KNN, SVM, Random Forest, and XGBoost.
+### 1. Bank Customer Segmentation & Classification
 
-- **[Jakarta House Price Prediction](https://github.com/fathiryasyaa/ml-house-price-prediction-jakarta)**  
-  A machine learning project for predicting house prices in Jakarta using data preprocessing, exploratory analysis, Random Forest, and Flask deployment.
+**[bank-customer-segmentation-classification](https://github.com/fathiryasyaa/bank-customer-segmentation-classification)**  
+A machine learning project focused on understanding customer groups and building classification models for banking data.
 
-- **[Student Score Prediction](https://github.com/fathiryasyaa/student-score-prediction)**  
-  A regression project that uses academic and psychological factors to predict student scores.
+### 2. Image Generation Pipeline
 
-### Machine Learning Applications
+**[image-generation-pipeline](https://github.com/fathiryasyaa/image-generation-pipeline)**  
+An end-to-end Stable Diffusion pipeline for text-to-image generation, inpainting, outpainting, and interactive use through Streamlit.
 
-- **[Hotel Booking Cancellation Prediction Web App](https://github.com/fathiryasyaa/hotel-booking-cancellation-predict-webapp)**  
-  A web application that combines a hotel booking system with a machine learning model for cancellation prediction.
+### 3. MLOps Project
 
-- **[MLOps Project](https://github.com/fathiryasyaa/MLOps-project)**  
-  An end-to-end MLOps project for Superstore profitability classification using TFX, TensorFlow Serving, and Prometheus.
+**[MLOps-project](https://github.com/fathiryasyaa/MLOps-project)**  
+An end-to-end MLOps pipeline for Superstore profitability classification using TFX, TensorFlow Serving, and Prometheus.
 
-### Other Projects
+### 4. Hotel Booking Cancellation Prediction
 
-- **[Image Generation Pipeline](https://github.com/fathiryasyaa/image-generation-pipeline)**  
-  An image generation pipeline using Stable Diffusion with support for text-to-image generation, inpainting, outpainting, and a Streamlit interface.
+**[hotel-booking-cancellation-prediction](https://github.com/fathiryasyaa/hotel-booking-cancellation-prediction)**  
+A data science project that analyzes hotel booking data and compares Logistic Regression, KNN, SVM, Random Forest, and XGBoost models.
+
+### 5. Hotel Booking Cancellation Prediction Web App
+
+**[hotel-booking-cancellation-predict-webapp](https://github.com/fathiryasyaa/hotel-booking-cancellation-predict-webapp)**  
+A web application that combines a hotel booking system with a machine learning model for cancellation prediction.
+
+### 6. Jakarta House Price Prediction
+
+**[ml-house-price-prediction-jakarta](https://github.com/fathiryasyaa/ml-house-price-prediction-jakarta)**  
+A machine learning project for predicting house prices in Jakarta using data preprocessing, exploratory analysis, Random Forest, and Flask deployment.
+
+### 7. Student Score Prediction
+
+**[student-score-prediction](https://github.com/fathiryasyaa/student-score-prediction)**  
+A regression project that uses academic and psychological factors to predict student scores.
 
 ## Currently Learning
 
@@ -60,6 +71,8 @@ I build projects to strengthen both my technical skills and my understanding of 
 - Data visualization and storytelling
 - Statistical analysis
 - Machine learning fundamentals and model evaluation
+- Generative AI workflows
+- MLOps and model deployment
 - Building practical data-driven applications
 
 ## Connect with Me
