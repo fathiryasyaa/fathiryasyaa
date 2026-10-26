@@ -1,5 +1,9 @@
 # FATHIRYASYAA ACHMAD ZUMAR
 
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Fathiryasyaa Achmad Zumar — Data Science, Machine Learning, and AI banner" width="100%" />
+</p>
+
 Informatics student at **Universitas Gunadarma** with a developing focus on **data science, machine learning, and practical AI applications**.
 
 I enjoy transforming data into useful insights and building end-to-end projects—from data exploration and predictive modeling to deployed web applications and generative AI pipelines.

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fathiryasyaa Achmad Zumar — Data Science, Machine Learning, and AI</title>
+  <desc id="desc">A dark blue technology banner featuring data visualization, machine learning, and artificial intelligence themes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07152f"/>
+      <stop offset="55%" stop-color="#102d59"/>
+      <stop offset="100%" stop-color="#163d63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#93c5fd" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="40" r="180" fill="#38bdf8" opacity="0.08"/>
+  <circle cx="1080" cy="300" r="210" fill="#a78bfa" opacity="0.08"/>
+
+  <g transform="translate(80 72)">
+    <text x="0" y="0" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">DATA • ML • AI</text>
+    <text x="0" y="68" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Fathiryasyaa Achmad Zumar</text>
+    <text x="0" y="112" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="23">Turning data into insights, models, and practical applications.</text>
+    <rect x="0" y="148" width="430" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="0" y="198" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="18">Data Science  /  Machine Learning  /  Generative AI  /  MLOps</text>
+  </g>
+
+  <g transform="translate(820 72)">
+    <path d="M0 180 L0 20 M0 180 L270 180" stroke="#93c5fd" stroke-opacity="0.4" stroke-width="2"/>
+    <path d="M18 146 C55 110 72 135 105 88 S160 110 190 58 S230 72 270 18" fill="none" stroke="#38bdf8" stroke-width="5" filter="url(#glow)"/>
+    <path d="M18 158 C50 144 72 150 102 125 S152 142 184 112 S230 125 270 92" fill="none" stroke="#a78bfa" stroke-width="4" opacity="0.9"/>
+    <g fill="#e0f2fe" stroke="#38bdf8" stroke-width="3">
+      <circle cx="18" cy="146" r="6"/><circle cx="105" cy="88" r="6"/><circle cx="190" cy="58" r="6"/><circle cx="270" cy="18" r="6"/>
+    </g>
+    <g fill="none" stroke="#bae6fd" stroke-width="2" opacity="0.75">
+      <circle cx="55" cy="240" r="18"/><circle cx="125" cy="240" r="18"/><circle cx="195" cy="240" r="18"/>
+      <path d="M73 240 H107 M143 240 H177"/>
+    </g>
+    <text x="37" y="246" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">D</text>
+    <text x="119" y="246" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ML</text>
+    <text x="188" y="246" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">AI</text>
+  </g>
+</svg>
