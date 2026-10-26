@@ -41,11 +41,13 @@
       <circle cx="18" cy="146" r="6"/><circle cx="105" cy="88" r="6"/><circle cx="190" cy="58" r="6"/><circle cx="270" cy="18" r="6"/>
     </g>
     <g fill="none" stroke="#bae6fd" stroke-width="2" opacity="0.75">
-      <circle cx="55" cy="240" r="18"/><circle cx="125" cy="240" r="18"/><circle cx="195" cy="240" r="18"/>
-      <path d="M73 240 H107 M143 240 H177"/>
+      <rect x="0" y="222" width="72" height="36" rx="18"/>
+      <rect x="99" y="222" width="72" height="36" rx="18"/>
+      <rect x="198" y="222" width="72" height="36" rx="18"/>
+      <path d="M72 240 H99 M171 240 H198"/>
     </g>
-    <text x="37" y="246" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">D</text>
-    <text x="119" y="246" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ML</text>
-    <text x="188" y="246" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">AI</text>
+    <text x="36" y="246" text-anchor="middle" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">DATA</text>
+    <text x="135" y="246" text-anchor="middle" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ML</text>
+    <text x="234" y="246" text-anchor="middle" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">AI</text>
   </g>
 </svg>
